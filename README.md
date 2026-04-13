@@ -50,11 +50,23 @@ A FinTech dashboard focused on financial literacy and visual goal tracking.
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=enoch-git&layout=compact&theme=tokyonight" alt="Top Langs" width="48%">
 </p>
 
----
 
-## 📫 Let's Connect!
-If you want to talk about hardware startups, PCB routing, renewable energy, or product strategy, I'm always open to connect.
+<br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/omotosho-enoch/)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail)](mailto:oluwadaratosh@gmail.com)<!--
+<h2 align="center"> Let's Connect!</h2>
 
+<p align="center">
+  <em>If you want to talk about hardware startups, PCB routing, renewable energy, or product strategy, I'm always open to connect.</em>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/omotosho-enoch/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>&nbsp;&nbsp;
+  <a href="mailto:your-oluwadaratosh@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>&nbsp;&nbsp;
+  <a href="https://enoch-port.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
+  </a>
+</p>
