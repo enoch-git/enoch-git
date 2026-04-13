@@ -75,9 +75,6 @@ A FinTech dashboard focused on financial literacy and visual goal tracking.
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=enoch-git&layout=compact&theme=tokyonight" alt="Top Langs" width="48%">
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=enoch-git&theme=tokyonight&hide_border=true" alt="Enoch's GitHub Streak">
-</p>
 
 <h2 align="center">🤝 Let's Connect!</h2>
 
