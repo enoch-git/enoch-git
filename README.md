@@ -1,16 +1,59 @@
 ## Hi there 👋
+# ⚡ Hi, I'm Enoch Omotosho
 
-<!--
-**enoch-git/enoch-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Banner](https://via.placeholder.com/800x150/0d1117/58a6ff/?text=PCB+Designer+%7C+Technical+Product+Manager)
 
-Here are some ideas to get you started:
+### Bridging the gap between complex hardware engineering and strategic product vision.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I specialize in **PCB Design** and **Technical Product Management**, translating ambitious hardware concepts into market-ready products. Whether I'm routing high-speed signals for IoT devices or defining product roadmaps for renewable energy systems, I focus on delivering scalable, user-centric solutions from schematic to mass production.
+
+---
+
+## 🛠️ Core Competencies
+
+### 🖨️ PCB Design & Hardware Engineering
+* **EDA Tools:** KiCad, Altium Designer
+* **Hardware Architecture:** Microcontrollers (STM32, ESP32, AVR), Embedded Systems
+* **Power Electronics:** Battery Management Systems (BMS), Solar Charge Controllers (3S configurations)
+* **Prototyping & Visualization:** 3D Modeling (Fusion 360), PCB Animation (Blender), Custom Enclosures
+
+### 🚀 Technical Product Management
+* **Product Strategy:** Go-to-Market Strategy, Roadmap Development, Market Research
+* **Execution & Delivery:** Agile Methodologies, Cross-Functional Team Leadership, Sprint Planning
+* **Business Operations:** Stakeholder Management, Requirement Scoping, Technical Mandate Documentation
+
+---
+
+## 🏗️ Featured Projects
+
+### 🔋 [Lytenergy Systems](https://github.com/your-repo) | *Founder & Technical PM*
+Leading the product vision and hardware development for high-efficiency solar home systems.
+* **PM Impact:** Defined product requirements, managed development timelines, and organized team structures and public launch events.
+* **Hardware Impact:** Designed the power distribution architecture and custom 3D-printed enclosures for the "Lyte" portable solar system.
+
+### 📡 [NepaWatch.app](https://github.com/your-repo) | *Hardware Lead & PM*
+A crowd-sourced power outage tracker utilizing GSM-enabled IoT nodes.
+* **PM Impact:** Coordinated field-ready deployment plans and defined core user features.
+* **Hardware Impact:** Engineered the IoT node circuitry to monitor multi-phase power stability securely and reliably.
+
+### 💳 [TargetSave](https://github.com/your-repo) | *Product Manager*
+A FinTech dashboard focused on financial literacy and visual goal tracking.
+* **PM Impact:** Authored the design mandate and guided the development of the dashboard interface using Firebase and JavaScript.
+
+---
+
+## 📈 GitHub Activity & Impact
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="Enoch's GitHub stats" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Langs" width="48%">
+</p>
+
+---
+
+## 📫 Let's Connect!
+If you want to talk about hardware startups, PCB routing, renewable energy, or product strategy, I'm always open to connect.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail)](mailto:your-email@example.com)<!--
+
