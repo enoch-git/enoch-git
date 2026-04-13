@@ -1,8 +1,11 @@
+
+
 ## Hi, I'm Enoch Omotosho
 
-![Profile Banner](<img width="3168" height="1344" alt="Image" src="https://github.com/user-attachments/assets/5596c2e3-25c2-4a8d-be7b-98064240b81e" />)
-
-### The Perfect Blend of Hardware Enginnering and Product MAnagement
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5596c2e3-25c2-4a8d-be7b-98064240b81e" alt="Enoch Omotosho - PCB Designer & Technical PM" width="100%">
+</p>
+### The Perfect Blend of Hardware Enginnering and Product Management
 
 I specialize in **PCB Design** and **Technical Product Management**, translating ambitious hardware concepts into market-ready products. Whether I'm routing high-speed signals for IoT devices or defining product roadmaps for renewable energy systems, I focus on delivering scalable, user-centric solutions from schematic to mass production.
 
