@@ -1,5 +1,4 @@
-## Hi there 👋
-# ⚡ Hi, I'm Enoch Omotosho
+## Hi, I'm Enoch Omotosho
 
 ![Profile Banner](https://via.placeholder.com/800x150/0d1117/58a6ff/?text=PCB+Designer+%7C+Technical+Product+Manager)
 
@@ -12,7 +11,7 @@ I specialize in **PCB Design** and **Technical Product Management**, translating
 ## 🛠️ Core Competencies
 
 ### 🖨️ PCB Design & Hardware Engineering
-* **EDA Tools:** KiCad, Altium Designer
+* **EDA Tools:** KiCad, Altium Designer, EasyEDA
 * **Hardware Architecture:** Microcontrollers (STM32, ESP32, AVR), Embedded Systems
 * **Power Electronics:** Battery Management Systems (BMS), Solar Charge Controllers (3S configurations)
 * **Prototyping & Visualization:** 3D Modeling (Fusion 360), PCB Animation (Blender), Custom Enclosures
@@ -45,8 +44,8 @@ A FinTech dashboard focused on financial literacy and visual goal tracking.
 ## 📈 GitHub Activity & Impact
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="Enoch's GitHub stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Langs" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=enoch-git&show_icons=true&theme=tokyonight" alt="Enoch's GitHub stats" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enoch-git&layout=compact&theme=tokyonight" alt="Top Langs" width="48%">
 </p>
 
 ---
@@ -55,5 +54,5 @@ A FinTech dashboard focused on financial literacy and visual goal tracking.
 If you want to talk about hardware startups, PCB routing, renewable energy, or product strategy, I'm always open to connect.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail)](mailto:your-email@example.com)<!--
+[![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail)](mailto:oluwadaratosh@gmail.com)<!--
 
