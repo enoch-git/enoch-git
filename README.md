@@ -1,10 +1,9 @@
-
-
-## Hi, I'm Enoch Omotosho
+## Hi, I'm Enoch Omotosho👋
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/5596c2e3-25c2-4a8d-be7b-98064240b81e" alt="Enoch Omotosho - PCB Designer & Technical PM" width="100%">
 </p>
+
 ### The Perfect Blend of Hardware Enginnering and Product Management
 
 I specialize in **PCB Design** and **Technical Product Management**, translating ambitious hardware concepts into market-ready products. Whether I'm routing high-speed signals for IoT devices or defining product roadmaps for renewable energy systems, I focus on delivering scalable, user-centric solutions from schematic to mass production.
@@ -47,8 +46,8 @@ A FinTech dashboard focused on financial literacy and visual goal tracking.
 ## 📈 GitHub Activity & Impact
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=enoch-git&show_icons=true&theme=tokyonight" alt="Enoch's GitHub stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enoch-git&layout=compact&theme=tokyonight" alt="Top Langs" width="48%">
+  <img src="https://github-stats-extended.vercel.app/api?username=enoch-git&show_icons=true&theme=tokyonight" alt="Enoch's GitHub stats" width="48%">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=enoch-git&layout=compact&theme=tokyonight" alt="Top Langs" width="48%">
 </p>
 
 ---
