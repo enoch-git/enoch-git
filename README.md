@@ -1,8 +1,8 @@
 ## Hi, I'm Enoch Omotosho
 
-![Profile Banner](https://via.placeholder.com/800x150/0d1117/58a6ff/?text=PCB+Designer+%7C+Technical+Product+Manager)
+![Profile Banner](<img width="3168" height="1344" alt="Image" src="https://github.com/user-attachments/assets/5596c2e3-25c2-4a8d-be7b-98064240b81e" />)
 
-### Bridging the gap between complex hardware engineering and strategic product vision.
+### The Perfect Blend of Hardware Enginnering and Product MAnagement
 
 I specialize in **PCB Design** and **Technical Product Management**, translating ambitious hardware concepts into market-ready products. Whether I'm routing high-speed signals for IoT devices or defining product roadmaps for renewable energy systems, I focus on delivering scalable, user-centric solutions from schematic to mass production.
 
@@ -53,6 +53,6 @@ A FinTech dashboard focused on financial literacy and visual goal tracking.
 ## 📫 Let's Connect!
 If you want to talk about hardware startups, PCB routing, renewable energy, or product strategy, I'm always open to connect.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/omotosho-enoch/)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail)](mailto:oluwadaratosh@gmail.com)<!--
 
