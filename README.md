@@ -12,7 +12,7 @@ I specialize in **PCB Design** and **Technical Product Management**, translating
 
 ## 🛠️ Core Competencies
 
-### 🖨️ PCB Design & Hardware Engineering
+### 🖨️Hardware Engineering (especially PCB Design)
 * **EDA Tools:** KiCad, Altium Designer, EasyEDA
 * **Hardware Architecture:** Microcontrollers (STM32, ESP32, AVR), Embedded Systems
 * **Power Electronics:** Battery Management Systems (BMS), Solar Charge Controllers (3S configurations)
