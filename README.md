@@ -53,10 +53,10 @@ A FinTech dashboard focused on financial literacy and visual goal tracking.
 
 <br>
 
-<h2 align="center"> Let's Connect!</h2>
+<h2 align="center">🤝Let's Connect!</h2>
 
 <p align="center">
-  <em>If you want to talk about hardware startups, PCB routing, renewable energy, or product strategy, I'm always open to connect.</em>
+  <em>If you want to talk anything Hardware especially PCB Design, renewable energy, or Technical Product Management, I'm always open to connect!.</em>
 </p>
 
 <p align="center">
