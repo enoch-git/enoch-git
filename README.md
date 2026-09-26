@@ -88,6 +88,13 @@ I enjoy building practical systems, understanding how hardware works beneath the
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enoch-git&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
+## 📈 GitHub Activity & Impact
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=enoch-git&show_icons=true&theme=tokyonight&hide=stars,issues,contribs" alt="Enoch's GitHub stats" width="48%">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=enoch-git&layout=compact&theme=tokyonight" alt="Top Langs" width="48%">
+</p>
+
 ---
 
 <p align="center">
