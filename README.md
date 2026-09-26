@@ -1,95 +1,101 @@
-## Hi, I'm Enoch Omotosho 👋
+# Hi, I'm Enoch
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/5596c2e3-25c2-4a8d-be7b-98064240b81e" alt="Enoch Omotosho - PCB Designer & Technical PM" width="100%">
-</p>
+I'm an Electrical & Electronics Engineering student focused on **hardware engineering**, especially **Embedded Systems, PCB Design, FPGA, and Digital Hardware**.
 
-### ⚡ The Perfect Blend of Hardware Engineering and Product Management
-
-I specialize in **PCB Design** and **Technical Product Management**, translating ambitious hardware concepts into market-ready products. Whether I'm routing high-speed signals for IoT devices or defining product roadmaps for renewable energy systems, I focus on delivering scalable, user-centric solutions from schematic to mass production.
+I enjoy building practical systems, understanding how hardware works beneath the software layer, and turning ideas into working prototypes.
 
 ---
 
-## 🛠️ Core Competencies
+## Selected Work
 
-### 🖨️ Hardware Engineering (especially PCB Design)
-* **EDA Tools:** KiCad, Altium Designer, EasyEDA
-* **Hardware Architecture:** Microcontrollers (STM32, ESP32, AVR), Embedded Systems
-* **Power Electronics:** Battery Management Systems (BMS), Solar Charge Controllers (3S configurations)
-* **Prototyping & Visualization:** 3D Modeling (Fusion 360), PCB Animation (Blender), Custom Enclosures
+### Embedded Systems
 
-### 🚀 Technical Product Management
-* **Product Strategy:** Go-to-Market Strategy, Roadmap Development, Market Research
-* **Execution & Delivery:** Agile Methodologies, Cross-Functional Team Leadership, Sprint Planning
-* **Business Operations:** Stakeholder Management, Requirement Scoping, Technical Mandate Documentation
+- [**LYTE Box**](https://github.com/enoch-git/LYTE-BOX)  
+  Intelligent solar-energy platform combining embedded control, monitoring, and power electronics.
 
----
+- [**IoT-Based Mini Grid**](https://github.com/enoch-git/IOT_BASED_MINI_GRID)  
+  Embedded monitoring system for distributed energy infrastructure.
 
-<h2 align="center">💻 Languages and Tools</h2>
+- [**STM32 Line-Following Robot**](https://github.com/enoch-git/STM32_BASED-LINE-FOLLOWING-ROBOT)  
+  STM32-based autonomous robot focused on real-time sensing and motor control.
 
-<p align="center">
-   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/ESP--IDF-E7352C?style=flat&logo=espressif&logoColor=white" alt="ESP-IDF">
-  <img src="https://img.shields.io/badge/KiCad_10-FFFFFF?style=flat&logo=kicad&logoColor=black" alt="KiCad">
-  <img src="https://img.shields.io/badge/Altium-A5A5A5?style=flat&logo=altiumdesigner&logoColor=white" alt="Altium">
-  <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=flat&logo=arduino&logoColor=white" alt="Arduino">
-  <img src="https://img.shields.io/badge/PlatformIO-FE7A16?style=flat&logo=platformio&logoColor=white" alt="PlatformIO">
-  <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat&logo=raspberrypi&logoColor=white" alt="Raspberry Pi">
-  <img src="https://img.shields.io/badge/Fusion_360-0696D7?style=flat&logo=autodesk&logoColor=white" alt="Fusion 360">
-  <img src="https://img.shields.io/badge/Inventor-FDB813?style=flat&logo=autodesk&logoColor=black" alt="Inventor">
-  <img src="https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white" alt="Blender">
-  <img src="https://img.shields.io/badge/Bambu_Studio-00A950?style=flat&logo=bambulab&logoColor=white" alt="Bambu Studio">
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visualstudiocode&logoColor=white" alt="VS Code">
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" alt="Streamlit">
-  <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=white" alt="Anaconda">
-  <img src="https://img.shields.io/badge/JLCPCB-0053A6?style=flat&logoColor=white" alt="JLCPCB">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/Google_Docs-4285F4?style=flat&logo=googledocs&logoColor=white" alt="Google Docs">
-</p>
-
-<br>
-
-## 🏗️ Featured Projects
-
-### 🔋 [Lytenergy Systems](https://github.com/your-repo) | *Founder & Technical PM*
-Leading the product vision and hardware development for high-efficiency solar home systems.
-* **PM Impact:** Defined product requirements, managed development timelines, and organized team structures and public launch events.
-* **Hardware Impact:** Designed the power distribution architecture and custom 3D-printed enclosures for the "Lyte" portable solar system.
-
-### 📡 [NepaWatch.app](https://github.com/your-repo) | *Hardware Lead & PM*
-A crowd-sourced power outage tracker utilizing GSM-enabled IoT nodes.
-* **PM Impact:** Coordinated field-ready deployment plans and defined core user features.
-* **Hardware Impact:** Engineered the IoT node circuitry to monitor multi-phase power stability securely and reliably.
-
-### 💳 [TargetSave](https://github.com/your-repo) | *Product Manager*
-A FinTech dashboard focused on financial literacy and visual goal tracking.
-* **PM Impact:** Authored the design mandate and guided the development of the dashboard interface using Firebase and JavaScript.
+- [**Energy Meter**](https://github.com/enoch-git/Energy-Meter)  
+  Embedded energy-monitoring system for electrical measurement and analysis.
 
 ---
 
-## 📈 GitHub Activity & Impact
+### PCB Design
+
+- [**Custom TI MSPM0 Development Board**](https://github.com/enoch-git/Custom-TI-MSPM0-Development-Board)  
+  Custom MCU development board designed around the TI MSPM0 platform.
+
+- [**SENSIE**](https://github.com/enoch-git/SENSIE)  
+  Sensor-focused embedded hardware platform with custom PCB design.
+
+- [**NodeSwitch**](https://github.com/enoch-git/NodeSwitch/tree/main)  
+  Smart power-control hardware platform with custom PCB architecture.
+
+- [**Tratum Node**](https://github.com/enoch-git/Tratun_Node/tree/main)  
+  Custom IoT hardware platform integrating multiple sensing, communication, and embedded subsystems.
+
+---
+
+### FPGA & Digital Hardware
+
+- [**IEEE Open Silicon Load Priority Controller**](https://github.com/R0B0T003/IEEE_Open-silicon_initiative_Load_Priority_Controller)  
+  Digital load-management controller developed through the IEEE Open Silicon Initiative.
+
+- [**FPGA FIR Noise Rejection Engine**](https://github.com/enoch-git/FPGA-ACCELERATED-REAL-TIME-FIR-FILTER-NOISE-REJECTION-ENGINE.)  
+  FPGA-based real-time FIR filtering and noise rejection.
+
+- [**FPGA Industrial Defect Detection Engine**](https://github.com/enoch-git/FPGA-ACCELERATED-INDUSTRIAL-DEFECT-DETECTION-ENGINE)  
+  Hardware acceleration for industrial defect-detection workloads.
+
+---
+
+## Tools & Technologies
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=enoch-git&show_icons=true&theme=tokyonight&hide=stars,issues,contribs" alt="Enoch's GitHub stats" width="48%">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=enoch-git&layout=compact&theme=tokyonight" alt="Top Langs" width="48%">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,arduino,raspberrypi,vscode,git,github,linux" />
 </p>
 
-
-<h2 align="center">🤝 Let's Connect!</h2>
-
 <p align="center">
-  <em>If you want to talk anything Hardware especially PCB Design, renewable energy, or Technical Product Management, I'm always open to connect!</em>
+  <img src="https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white" />
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" />
+  <img src="https://img.shields.io/badge/MSPM0-CC0000?style=flat-square&logo=texasinstruments&logoColor=white" />
+  <img src="https://img.shields.io/badge/PlatformIO-F5822A?style=flat-square&logo=platformio&logoColor=white" />
+  <img src="https://img.shields.io/badge/KiCad-314CB0?style=flat-square&logo=kicad&logoColor=white" />
+  <img src="https://img.shields.io/badge/Altium-A5915F?style=flat-square&logo=altiumdesigner&logoColor=white" />
+  <img src="https://img.shields.io/badge/EasyEDA-1765F6?style=flat-square" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/omotosho-enoch/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>&nbsp;&nbsp;
-  <a href="mailto:oluwadaratosh@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>&nbsp;&nbsp;
-  <a href="https://enoch-port.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
-  </a>
+  <img src="https://img.shields.io/badge/FPGA-555555?style=flat-square" />
+  <img src="https://img.shields.io/badge/Verilog-8A2BE2?style=flat-square" />
+  <img src="https://img.shields.io/badge/VHDL-4B0082?style=flat-square" />
+  <img src="https://img.shields.io/badge/Quartus_Prime-0071C5?style=flat-square&logo=intel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fusion_360-FF6C00?style=flat-square&logo=autodesk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Inventor-FDB813?style=flat-square&logo=autodesk&logoColor=black" />
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bambu_Studio-00AE42?style=flat-square" />
+</p>
+
+---
+
+## Repository Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enoch-git&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
+
+---
+
+<p align="center">
+  <strong>Think It. Design It. Build It.</strong>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/omotosho-enoch/">LinkedIn</a>
+  &nbsp;•&nbsp;
+  <a href="https://enoch-port.netlify.app">Portfolio</a>
 </p>
